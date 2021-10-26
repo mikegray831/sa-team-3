@@ -14,14 +14,14 @@
 * Window function
 * Triggers
 * Realm 
-# Hosting
-# Functions
-* Search 
-# Synonyms
+  * Hosting
+  * Functions
+  * Thirdparty Endpoint
+  * Services :Twilio
+* Atlas Search 
+  * Synonyms
 * Realtime Analytics
-* Chart
-* 
-
+* Atlas Charts
 
 
 # Real-Time Blood Pressure Monitoring
