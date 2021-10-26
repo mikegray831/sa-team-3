@@ -8,7 +8,7 @@
 * Nati Yemane
 * Blaine Mincey
 
-# Require Capablities for Hackathon
+# Required Capabilities for Hackathon
 * Timeseries 
 * CSFLE
 * Window function
@@ -24,7 +24,7 @@
  * Meterialized Views
 * Atlas Charts
 
-![Setup Datasources](images/deck.png)
+![Setup Datasources](images/overview.jpg)
 # Real-Time Blood Pressure Monitoring
 
 ## Pre-requisites
