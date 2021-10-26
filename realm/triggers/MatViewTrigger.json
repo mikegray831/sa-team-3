@@ -1,0 +1,16 @@
+{
+    "id": "617842a954272ad58ab1401e",
+    "name": "MatViewTrigger",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *"
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "ComputeAveragesForMatView"
+            }
+        }
+    }
+}
