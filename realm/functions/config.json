@@ -1,5 +1,9 @@
 [
     {
+        "name": "SendSMS",
+        "private": false
+    },
+    {
         "name": "CheckSCB",
         "private": false
     },
@@ -9,10 +13,6 @@
     },
     {
         "name": "ComputeAveragesForMatView",
-        "private": false
-    },
-    {
-        "name": "SendSMS",
         "private": false
     }
 ]
