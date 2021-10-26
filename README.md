@@ -24,7 +24,7 @@
  * Meterialized Views
 * Atlas Charts
 
-
+![Setup Datasources](images/deck.png)
 # Real-Time Blood Pressure Monitoring
 
 ## Pre-requisites
