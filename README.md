@@ -21,6 +21,7 @@
 * Atlas Search 
   * Synonyms
 * Realtime Analytics
+ * Meterialized Views
 * Atlas Charts
 
 
