@@ -41,6 +41,10 @@
 
 * Result - 10 patients with name/ssn encrypted
 
+![Setup Datasources](images/patient.png)
+
+
+
 ### Blood Pressure Telemetry Data for time-series (Python3 Application)
 * Data Generation Tools are in datagenerators sub-directory
 
@@ -52,10 +56,12 @@
 
 * Result - Random blood pressure time-series data generated for 10 separate devices at 1 minute intervals (while true so kill this when completed)
 
+![Setup Datasources](images/bloodpressure.png)
+
 ### Set up Realm Functions,Trigger , Webhooks , Hosting App 
 
 ### Setup the Data sources for Charts
-MarkUp: ![Setup Datasources]()
+![Setup Datasources](images/chartdatasource.png)
 
 
 
