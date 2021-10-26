@@ -1,0 +1,16 @@
+{
+    "id": "617841946264871ced6616b3",
+    "name": "ComputeAveragesTrigger",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *"
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "ComputeAverages"
+            }
+        }
+    }
+}

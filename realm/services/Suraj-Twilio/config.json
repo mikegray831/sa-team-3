@@ -1,0 +1,11 @@
+{
+    "name": "Suraj-Twilio",
+    "type": "twilio",
+    "config": {
+        "sid": "AC2f75f3138deb0620e53fd0d9162261e3"
+    },
+    "secret_config": {
+        "auth_token": "SurajTwilioToken"
+    },
+    "version": 1
+}
