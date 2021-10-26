@@ -59,6 +59,11 @@
 ![Setup Datasources](images/bloodpressure.png)
 
 ### Set up Realm Functions,Trigger , Webhooks , Hosting App 
+* realm-cli push --remote <<your app -id>>( please refer : https://docs.mongodb.com/realm/manage-apps/deploy/manual/deploy-cli/ ) 
+* Charts Dashboard
+* Synonym Search 
+![Setup Datasources](images/search1.png)
+![Setup Datasources](images/search2.png)
 
 ### Setup the Data sources for Charts
 ![Setup Datasources](images/chartdatasource.png)
