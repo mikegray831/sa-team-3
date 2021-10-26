@@ -1,9 +1,5 @@
 [
     {
-        "name": "CheckSCB",
-        "private": false
-    },
-    {
         "name": "ComputeAverages",
         "private": false
     },
@@ -13,6 +9,10 @@
     },
     {
         "name": "SendSMS",
+        "private": false
+    },
+    {
+        "name": "CheckSCB",
         "private": false
     }
 ]
