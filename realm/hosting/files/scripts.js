@@ -44,7 +44,7 @@ function buildPatientList(patients) {
   let txt = "";
   patients.forEach((patient) => {
     txt += `
-            <br> <b><p style="color:green">${patient.title}</p></b>
+            <br> <b><p style="color:black">${patient.title}</p></b>
             <br> Prescription: ${patient.prescription}
             <br> HealthProvider: ${patient.healthProvider}
             <br> <b>Score:  ${patient.score["$numberDouble"]} </b>
