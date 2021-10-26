@@ -1,0 +1,16 @@
+# MongoDB Properties
+CONNECTION = mongodb://localhost:27017
+DATABASE = HealthMonitoringDB
+COLLECTION = patients
+
+# Encryption properties (these values can remain the same)
+KEY_DB = patients_key
+KEY_COLLECTION = __keyVault
+KMS_PROVIDER = local
+KEY_ALT_NAME = my-key-alt-name
+
+# master key file to be generated from securitykeys/CreateMasterKeyFile
+MASTER_KEY_FILE = src/main/resources/master-key.txt
+
+# path to mongodb enterprise advanced mongocryptd
+MONGO_CRYPTD_PATH = /path/to/mongocryptd 
