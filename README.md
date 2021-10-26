@@ -52,3 +52,10 @@
 
 * Result - Random blood pressure time-series data generated for 10 separate devices at 1 minute intervals (while true so kill this when completed)
 
+### Set up Realm Functions,Trigger , Webhooks , Hosting App 
+
+### Setup the Data sources for Charts
+MarkUp: ![Setup Datasources]()
+
+
+
