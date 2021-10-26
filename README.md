@@ -5,8 +5,24 @@
 * Suraj Shetty
 * Dhananjay Ghevde
 * Danish Malik
-* Natanim Yemane
+* Nati Yemane
 * Blaine Mincey
+
+# Require Capablities for Hackathon
+* Timeseries 
+* CSFLE
+* Window function
+* Triggers
+* Realm 
+# Hosting
+# Functions
+* Search 
+# Synonyms
+* Realtime Analytics
+* Chart
+* 
+
+
 
 # Real-Time Blood Pressure Monitoring
 
