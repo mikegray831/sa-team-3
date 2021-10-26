@@ -4,15 +4,15 @@
         "private": false
     },
     {
+        "name": "CheckSCB",
+        "private": false
+    },
+    {
         "name": "ComputeAverages",
         "private": false
     },
     {
         "name": "ComputeAveragesForMatView",
-        "private": false
-    },
-    {
-        "name": "CheckSCB",
         "private": false
     }
 ]
